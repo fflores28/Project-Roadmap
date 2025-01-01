@@ -16,6 +16,7 @@ Welcome to my IT Journey Project Roadmap! 🎉 As a dedicated student currently 
 
 <details>
 <summary>1. Operating Systems 💻</summary>
+
 Projects demonstrating my knowledge on commands, configurations, & management of different operating systems. 
 - Linux 🐧
 - Windows Server
