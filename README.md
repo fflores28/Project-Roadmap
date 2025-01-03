@@ -10,7 +10,7 @@ Welcome to my IT Journey Project Roadmap! 🎉 As a dedicated student currently 
 - Foster collaboration and exchange of ideas with fellow learners and professionals 🤝
 
 > [!NOTE]
-> This repository is only used for a quick introduction & organizational purposes. The following links will direct you to the actual individual project repositories.
+> This repository is only used for a quick introduction & for organizational purposes. The following links will direct you to the actual individual project repositories.
 
 ## Main Categories
 
